@@ -1,1 +1,1 @@
-# exercises-javascript
+# goit-js-hw-06
