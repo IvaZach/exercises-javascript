@@ -1,0 +1,14 @@
+{
+  "name": "proect_first",
+  "version": "1.0.0",
+  "description": "exercise",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Iva Zachern <ivazacherniuk@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.11.0"
+  }
+}
